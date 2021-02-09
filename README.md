@@ -1,2 +1,2 @@
-# movis_promotion
-영화 프로모션
+# demon-slayer
+영화 프로모션 홈페이지

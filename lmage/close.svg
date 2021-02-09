@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="36" viewBox="0 0 38 36">
+  <g id="close" transform="translate(-135 71)">
+    <path id="Icon_material-close" data-name="Icon material-close" d="M30.5,9.816,28.184,7.5,19,16.684,9.816,7.5,7.5,9.816,16.684,19,7.5,28.184,9.816,30.5,19,21.316,28.184,30.5,30.5,28.184,21.316,19Z" transform="translate(135.5 -71.5)" fill="#333"/>
+    <g id="사각형_18" data-name="사각형 18" transform="translate(135 -71)" fill="none" stroke="#333" stroke-linejoin="bevel" stroke-width="3">
+      <rect width="38" height="36" stroke="none"/>
+      <rect x="1.5" y="1.5" width="35" height="33" fill="none"/>
+    </g>
+  </g>
+</svg>

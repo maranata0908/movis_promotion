@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="36" viewBox="0 0 38 36">
+  <g id="menu" transform="translate(-51 72)">
+    <path id="Icon_ionic-md-menu" data-name="Icon ionic-md-menu" d="M4.5,26h27V23.167H4.5Zm0-7.083h27V16.083H4.5ZM4.5,9v2.833h27V9Z" transform="translate(52.5 -71)" fill="#fff"/>
+    <g id="사각형_17" data-name="사각형 17" transform="translate(51 -72)" fill="none" stroke="#fff" stroke-linejoin="bevel" stroke-width="3">
+      <rect width="38" height="36" stroke="none"/>
+      <rect x="1.5" y="1.5" width="35" height="33" fill="none"/>
+    </g>
+  </g>
+</svg>
