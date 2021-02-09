@@ -36,7 +36,9 @@ body {
 @media screen and (max-width: 768px) {
   body {
     background: url(../lmage/poster03.jpg);
-    background-position: right 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: right 0; */
   }
 }
 
