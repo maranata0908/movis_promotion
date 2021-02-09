@@ -35,6 +35,7 @@ body {
 /* 모바일 기기일때 배경 구도 바꾸기 */
 @media screen and (max-width: 768px) {
   body {
+    background: url(../lmage/poster03.jpg);
     background-position: right 0;
   }
 }
