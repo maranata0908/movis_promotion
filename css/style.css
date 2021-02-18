@@ -38,7 +38,7 @@ body {
     background: url(../lmage/poster03.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: right 0; 
+    /* background-position: right 0;  */
   }
 }
 

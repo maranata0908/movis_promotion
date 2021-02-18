@@ -46,6 +46,9 @@ body {
 /* 갤러리 모바일 목록 구성 */
 @media screen and (max-width: 500px) {
   .clear { clear: both;}
+  body{
+    background: url(../lmage/poster03.jpg);
+  }
   #gallery #main ul.thumb {
     overflow: hidden;
     width: 100%;
